@@ -1,3 +1,5 @@
+<img src="assets/banner.jpg" width="100%">
+
 # <img src="assets/icon.png" width="45" align="left"> AryKey Firmware
 <br />
 
@@ -47,7 +49,7 @@ The **seed** is stored in the flash memory.
 
 ## 🏗️ Hardware
 
-<img src="assets/arykey.jpg" width="600">
+<img src="assets/arykey.jpg" width="100%">
 
 1. **Raspberry Pi Pico**
 2. **OTG Cable**: Micro-USB (male) to USB-C (male)
